@@ -1,0 +1,35 @@
+# Compilaciones y distribución
+_Build/
+_temp/
+Dist/
+build/
+DerivedData/
+
+# Archivos personales de Xcode
+*.xcuserstate
+xcuserdata/
+*.xcuserdatad/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Copias y archivos temporales
+*.backup
+*.bak
+*.orig
+*.swp
+*~
+
+# Claves privadas y credenciales
+*.pem
+*.p12
+*.p8
+*.key
+*.mobileprovision
+.env
+.env.*
+
+# Copias adicionales de Swift
+*.backup-*

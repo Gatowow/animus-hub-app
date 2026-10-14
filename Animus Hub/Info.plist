@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>es</string>
+	<key>CFBundleIconFile</key>
+	<string>AnimusHub.icns</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>es</string>
+	</array>
+	<key>SUFeedURL</key>
+	<string>https://gatowow.github.io/animus-hub-app/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>p48EIuVn0xbgkx/iEjQcm2jJh44VItJZVfALJvmrfpg=</string>
+</dict>
+</plist>
